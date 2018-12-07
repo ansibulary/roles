@@ -1,0 +1,8 @@
+[submodule "os/arch/install"]
+	path = os/arch/install
+	url = git@github.com:ansibulary/os_arch_install.git
+	branch = master
+[submodule "util/collect"]
+	path = util/collect
+	url = git@github.com:ansibulary/util_collect.git
+	branch = master
