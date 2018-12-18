@@ -6,3 +6,12 @@
 	path = util/collect
 	url = git@github.com:ansibulary/util_collect.git
 	branch = master
+[submodule "os/common/hostname"]
+	path = os/common/hostname
+	url = git@github.com:ansibulary/os_common_hostname.git
+[submodule "os/common/time"]
+	path = os/common/time
+	url = git@github.com:ansibulary/os_common_time.git
+[submodule "os/common/locale"]
+	path = os/common/locale
+	url = git@github.com:ansibulary/os_common_locale.git
