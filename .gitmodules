@@ -15,3 +15,6 @@
 [submodule "os/common/locale"]
 	path = os/common/locale
 	url = git@github.com:ansibulary/os_common_locale.git
+[submodule "os/common/user"]
+	path = os/common/user
+	url = git@github.com:ansibulary/os_common_user.git
